@@ -119,127 +119,6 @@ Objective:
 Everything that follows exists to support that objective.
 
 Nothing exists to compete with it.
-# Chapter 3
-
-## Build Contracts, Not Chaos
-
-### Mission Brief
-
-Every engineering project begins with an objective.
-
-Very few begin with a contract.
-
-The difference appears small.
-
-It is not.
-
-Objectives describe what we hope to achieve.
-
-Contracts define what is allowed while trying to achieve it.
-
-Artificial intelligence dramatically increases the number of possible solutions that can be proposed during development. Without explicit boundaries, every conversation introduces new alternatives, new optimizations, and new directions.
-
-The challenge is no longer generating ideas.
-
-The challenge is deciding which ideas are permitted to influence the project.
-
-Engineering contracts exist to answer that question.
-
----
-
-## Core Principle
-
-A contract is not legal language.
-
-It is engineering language.
-
-It defines the operating boundaries of a task before implementation begins.
-
-A good engineering contract answers questions that should never be negotiated in the middle of execution.
-
-What is the objective?
-
-What is outside the scope?
-
-What must not change?
-
-How will success be measured?
-
-What evidence will prove completion?
-
-What evidence will reject the proposed solution?
-
-Once these questions have been answered, implementation becomes significantly calmer.
-
-The conversation stops debating purpose.
-
-It begins executing purpose.
-
----
-
-## Real Engineering Experience
-
-One of the most important discoveries during long-running AI-assisted development was that ambiguity compounds.
-
-A task would begin with a clear intention.
-
-Halfway through the discussion, an adjacent improvement would appear.
-
-Then another.
-
-Then another.
-
-Each suggestion was individually reasonable.
-
-Collectively they transformed a focused engineering task into an architectural redesign.
-
-Nothing malicious had happened.
-
-Nothing irrational had happened.
-
-The assistant was doing exactly what it had been designed to do.
-
-It was generating useful possibilities.
-
-The engineering process, however, had failed to distinguish between possibilities and permission.
-
-That distinction eventually became the turning point.
-
-Before implementation began, every significant task was preceded by an explicit engineering contract.
-
-The conversation immediately became shorter.
-
-More focused.
-
-More predictable.
-
-Most importantly, it became recoverable.
-
-Weeks later, it remained obvious why the work had been performed and equally obvious why other ideas had deliberately been postponed.
-
-The contract had preserved the decision.
-
-Not the conversation.
-
----
-
-## Objectives Before Solutions
-
-One of the easiest ways to lose control of an engineering project is to begin discussing solutions before agreeing on the objective.
-
-Solutions multiply naturally.
-
-Objectives should remain remarkably stable.
-
-A contract therefore begins with a single sentence.
-
-Objective:
-
-<Describe exactly what success looks like.>
-
-Everything that follows exists to support that objective.
-
-Nothing exists to compete with it.
 
 ## Scope Is an Engineering Tool
 
@@ -554,7 +433,7 @@ The next chapter builds upon this foundation by replacing opinion with evidence,
 
 > "Men in general judge more by the eye than by the hand, because everyone can see, but few can truly understand."
 
-> — Niccolò Machiavelli, *The Prince*
+> - Niccolo Machiavelli, *The Prince*
 
 Engineering suffers from the same temptation.
 
