@@ -260,6 +260,14 @@ Canonical truth does not eliminate disagreement.
 
 It eliminates ambiguity about where disagreement should be resolved.
 
+Engineering becomes increasingly difficult as the number of competing interpretations grows. Different logs, reports, dashboards, and personal observations often describe the same event from different perspectives. None of them are necessarily incorrect, yet they rarely provide a complete picture on their own.
+
+Mature engineering therefore depends upon a canonical description of reality. Just as implementation requires a single reference for what should be built, investigation requires a single reference for what actually occurred.
+
+Establishing that reference does not eliminate disagreement. Engineers may still reach different conclusions about the causes of an observed behaviour. What it eliminates is disagreement about the evidence itself. Every investigation begins from the same recorded reality before moving toward interpretation.
+
+This distinction is subtle but important. Engineering cannot standardize judgment, but it can standardize the observations upon which judgment is based.
+
 ---
 
 ## Debugging Authority Instead of Symptoms
@@ -267,6 +275,12 @@ It eliminates ambiguity about where disagreement should be resolved.
 One of the most valuable engineering lessons from long-running AI-assisted engineering was learning to stop debugging symptoms.
 
 Symptoms are consequences.
+
+Observable failures rarely originate where they become visible. They are usually the final consequence of a sequence of earlier decisions, each transferring responsibility to the next stage of the system. Correcting the visible behaviour without identifying the decision that produced it often creates only temporary improvement.
+
+Effective debugging therefore follows authority rather than appearance. Instead of asking where the problem manifested, engineers ask where the decision responsible for that behaviour was made. The investigation progresses upstream until it reaches the point where changing a single decision prevents every downstream symptom from occurring.
+
+This approach requires patience because the source of a problem is seldom the most obvious one. It is, however, the only approach that consistently produces durable improvements rather than repeated corrections.
 
 Authority determines causes.
 
