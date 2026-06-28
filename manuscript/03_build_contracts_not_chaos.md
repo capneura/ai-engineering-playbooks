@@ -24,6 +24,10 @@ The challenge is deciding which ideas are permitted to influence the project.
 
 Engineering contracts exist to answer that question.
 
+Objectives establish direction, but direction alone rarely produces consistent engineering outcomes. Different engineers may interpret the same objective differently, and an AI system can generate dozens of equally plausible paths toward it. Without an explicit agreement on boundaries, implementation becomes an exercise in continuous interpretation rather than disciplined execution.
+
+A contract reduces that uncertainty before the first change is made. It captures the decisions that should remain stable throughout implementation, allowing subsequent work to focus on execution rather than repeatedly renegotiating intent. In that sense, the contract is not documentation produced after engineering. It is the first engineering artifact created before engineering truly begins.
+
 ---
 
 ## Core Principle
@@ -53,6 +57,10 @@ Once these questions have been answered, implementation becomes significantly ca
 The conversation stops debating purpose.
 
 It begins executing purpose.
+
+Writing a contract is not merely an act of communication. It is an act of engineering in its own right. The effort required to define objectives, scope, constraints, and verification often exposes questions that remained invisible while the project existed only as an idea. Assumptions that appeared obvious suddenly require explicit decisions. Ambiguities that would have surfaced during implementation become visible while they are still inexpensive to resolve.
+
+This discipline benefits both the engineer and the AI. The assistant receives clearer boundaries for execution, while the engineer gains a more precise understanding of the work itself. Many implementation problems are ultimately specification problems that simply remained hidden until construction had already begun. A contract brings those problems forward, where they can be addressed deliberately instead of reactively.
 
 ---
 
