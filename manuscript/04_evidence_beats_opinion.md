@@ -470,7 +470,23 @@ Without evidence, discipline becomes procedure.
 
 With evidence, discipline becomes engineering.
 
-The next chapter builds upon this foundation by showing how engineering teams preserve those decisions over months of development without losing architectural intent.
+Engineering has now established two essential forms of discipline.
+
+The first is preserving intent. Before implementation begins, engineers must ensure that the original objective survives discussion, design, and execution without gradually changing into something unintended.
+
+The second is validating results. Once implementation is complete, assumptions must give way to observation. Decisions are no longer judged by confidence, effort, or consistency, but by evidence. Reality becomes the final engineering authority.
+
+These two disciplines provide a reliable foundation, but they do not complete the engineering lifecycle.
+
+Systems continue to evolve. Requirements change. New constraints emerge. Environments behave differently over time. A decision that was fully justified when it was made may eventually become outdated, not because the original engineering was poor, but because the conditions surrounding it have changed.
+
+Engineering therefore faces one final responsibility.
+
+It must preserve not only the intent behind its decisions, but also the validity of the knowledge upon which those decisions depend.
+
+Evidence answers whether a system is correct today.
+
+The next challenge is ensuring that this correctness survives tomorrow.
 
 ---
 
