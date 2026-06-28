@@ -142,6 +142,14 @@ Evidence produced explanation.
 
 That single change altered the quality of engineering decisions more than any improvement in tooling ever did.
 
+The transition was gradual rather than deliberate. Each attempt to understand a failure exposed the same limitation: discussion alone could not establish what had actually happened. Different observations produced different conclusions, and each explanation seemed plausible until another explanation appeared equally convincing.
+
+The solution was not to improve the quality of the discussion. It was to reduce its authority.
+
+Every piece of instrumentation shifted a small part of the engineering process away from recollection and toward observation. Questions that once depended on memory could now be answered by recorded behaviour. Explanations no longer needed to begin with assumptions because they could begin with evidence.
+
+This is one of the quiet transitions that separates maturing engineering organisations from immature ones. The objective is not to eliminate discussion, but to ensure that discussion begins after reality has already spoken.
+
 ---
 
 ## Opinion Is Cheap
@@ -157,6 +165,14 @@ Sometimes they are excellent.
 Sometimes they are merely plausible.
 
 Engineering cannot afford to distinguish between them using confidence alone.
+
+Persuasive explanations are easy to produce. They often appear logical, internally consistent, and supported by reasonable assumptions. Modern AI systems have made this even more apparent by generating explanations that are coherent regardless of whether they accurately describe reality.
+
+Engineering therefore requires a stricter discipline.
+
+A convincing explanation is valuable only after it has survived comparison with observable evidence. Until then, it remains a hypothesis, however confident its presentation may appear.
+
+This distinction is subtle but fundamental. Confidence influences decisions. Evidence justifies them.
 
 Confidence is not a measurement.
 
@@ -203,6 +219,14 @@ Measurement reduces imagination.
 Engineering improves because uncertainty becomes smaller.
 
 Not because engineers become more confident.
+
+As telemetry becomes more comprehensive, another change begins to emerge. Engineering conversations become noticeably shorter.
+
+Less time is spent debating what occurred because that question has already been answered. The remaining discussion focuses instead on why it occurred and what should change as a consequence. Investigation gradually replaces speculation as the dominant engineering activity.
+
+This shift is easy to overlook because it develops incrementally. Each additional observation removes only a small amount of uncertainty. Over time, however, those observations accumulate into a common engineering reality that every later decision can reference.
+
+Telemetry therefore provides more than visibility. It establishes a shared foundation upon which reliable engineering decisions can be made.
 
 ---
 
