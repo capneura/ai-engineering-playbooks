@@ -56,6 +56,24 @@ This manual defines three primary operating modes:
 
 Implementation exists as a separate activity, but it must never begin until planning has been completed and deliberately frozen.
 
+## Why Modes Matter
+
+The three operating modes are not arbitrary categories. They exist because engineering work changes purpose as a project progresses.
+
+Artificial intelligence does not naturally distinguish between understanding a problem, deciding how to solve it, changing the system, and verifying the result. From the perspective of a conversational assistant, every response is simply another opportunity to be helpful.
+
+That flexibility is one of AI's greatest strengths, but it is also one of its greatest engineering risks.
+
+A useful suggestion during exploration may be harmful during verification. A redesign proposed while gathering evidence can quietly replace the original objective before anyone notices the conversation has changed direction.
+
+The assistant has not necessarily made a mistake. It has optimized for usefulness inside the current discussion. Engineering, however, requires a different optimization. It requires usefulness within the current phase of the project.
+
+Declaring the operating mode establishes that boundary. It tells both the engineer and the assistant what kind of work is expected and, equally important, what kind of work must wait.
+
+Modes do not restrict thinking. They organize it.
+
+By separating understanding, planning, and verification into distinct activities, engineers gain something far more valuable than faster answers. They gain control over how decisions are made.
+
 ---
 
 ## Real Engineering Experience
@@ -89,6 +107,20 @@ The visible failure appeared to be inconsistent AI behaviour.
 The real failure was the absence of operating discipline.
 
 The engineering process had never established what kind of work was actually being performed.
+
+## The Cost of Silent Mode Changes
+
+During engineering work, changing operating modes is both normal and necessary. Projects begin with questions, progress toward decisions, move into implementation, and eventually require verification. The problem is not that these transitions occur. The problem is when they occur without anyone realizing they have happened.
+
+A conversation that begins by exploring possibilities can gradually become a planning session. A planning discussion can quietly drift into implementation as individual suggestions are accepted one by one. Verification can become redesign the moment new explanations are invented before the existing evidence has been examined.
+
+These transitions rarely happen because someone deliberately ignores the engineering process. They happen because conversation flows naturally. Each new idea appears reasonable in isolation, and the cumulative effect often goes unnoticed until the project has already changed direction.
+
+This is particularly true when working with AI. An assistant is designed to extend the current conversation by producing the most useful next response. Unless the operating mode has been made explicit, the assistant has little reason to distinguish between generating hypotheses, making design decisions, proposing implementation details, or interpreting evidence. From its perspective, all of these are simply different ways of being helpful.
+
+The cost of these silent transitions is not measured only in wasted effort. They also undermine engineering traceability. Once exploration has blended into planning, or planning into implementation, it becomes increasingly difficult to answer simple questions: *When was this decision actually made? Which assumptions were verified? Which changes were approved?* Without clear boundaries, decisions become intertwined with observations, and recovering the original reasoning becomes unnecessarily difficult.
+
+Explicit operating modes solve this problem by making transitions deliberate rather than accidental. They do not prevent engineers from changing direction when new evidence appears. Instead, they ensure that everyone understands when the project has entered a new phase and what kind of work is now expected. A declared transition preserves both flexibility and discipline, allowing the project to evolve without losing sight of how and why its decisions were made.
 
 ---
 
