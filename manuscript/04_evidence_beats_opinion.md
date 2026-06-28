@@ -30,6 +30,24 @@ Not because opinions are useless.
 
 Because engineering requires a higher standard.
 
+The previous chapter established that engineering intent must survive implementation. Contracts preserve decisions, protect scope, and ensure that what is ultimately built remains faithful to what was originally agreed.
+
+That preservation, however, answers only part of the engineering problem.
+
+A perfectly implemented contract can still produce an incorrect result.
+
+Engineering therefore requires a second authority. It must determine not only whether implementation respected the original intent, but whether that intent produced the expected outcome when confronted by reality.
+
+Every engineering effort eventually reaches this transition.
+
+The discussion shifts from *"Did we build what we intended?"* to *"Did what we built actually solve the problem?"*
+
+The first question belongs to discipline.
+
+The second belongs to evidence.
+
+This distinction separates engineering from implementation. Implementation completes work. Evidence determines whether that work deserves to remain.
+
 ---
 
 ## Core Principle
