@@ -264,7 +264,7 @@ Engineering becomes increasingly difficult as the number of competing interpreta
 
 Mature engineering therefore depends upon a canonical description of reality. Just as implementation requires a single reference for what should be built, investigation requires a single reference for what actually occurred.
 
-Establishing that reference does not eliminate disagreement. Engineers may still reach different conclusions about the causes of an observed behaviour. What it eliminates is disagreement about the evidence itself. Every investigation begins from the same recorded reality before moving toward interpretation.
+Engineers may still reach different conclusions about the causes of an observed behaviour. What changes is that every investigation begins from the same recorded reality before interpretation begins. Disagreement moves from conflicting evidence to competing explanations.
 
 This distinction is subtle but important. Engineering cannot standardize judgment, but it can standardize the observations upon which judgment is based.
 
