@@ -64,12 +64,19 @@ The question is not whether change should occur.
 
 It is whether change remains connected to what the project already knows.
 
-Every meaningful improvement should begin from the strongest understanding the project possesses. Existing knowledge is not a limitation on progress but the foundation that allows progress to remain coherent. Without that continuity, engineering gradually begins solving the same problems under different names, repeating work that was already completed while believing it is moving forward.
+That connection is what allows engineering to grow without repeatedly losing its own direction.
+
+Engineering advances by accumulating understanding. Every important decision, every verified conclusion, and every lesson learned becomes part of the foundation upon which future work is built. Continuity is therefore not an attempt to protect old ideas from being questioned. It is the discipline that ensures new ideas begin where previous understanding ended.
+
+Every meaningful improvement should begin from the strongest understanding the project possesses. Existing knowledge is not a limitation on progress but the foundation that allows progress to remain coherent. Without that foundation, engineering slowly shifts from extending knowledge to repeatedly recovering it.
+
+Projects that preserve continuity do not become slower or less adaptable. They become more confident in their ability to change because every new decision has somewhere reliable from which to begin. Progress becomes cumulative rather than repetitive. Each stage strengthens the one before it instead of quietly replacing it.
+
+Without that continuity, engineering gradually begins solving the same problems under different names, repeating work that was already completed while believing it is moving forward.
 
 Continuity does not resist evolution.
 
 It gives evolution direction.
-
 ---
 
 ## Engineering Rule
