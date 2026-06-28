@@ -35,16 +35,23 @@ Truth rarely disappears because it is proven wrong.
 
 More often, it fades because it slowly loses its place within the project.
 
+That process is rarely dramatic. Projects seldom lose their direction in a single moment. They continue to evolve much as they always have. New work is completed, improvements are introduced, and progress appears steady. From the outside, very little seems different. The project still looks familiar because drift rarely announces itself as drift.
+
 The architecture still appears familiar. New capabilities continue to be added. Every decision seems reasonable when viewed on its own, yet over time small deviations begin to accumulate. A conclusion that once guided the project is no longer consulted. A familiar concept acquires a different meaning. A solved problem quietly returns because the reasoning that solved it was never carried forward.
 
 None of these changes appears significant in isolation.
 
 Taken together, they gradually separate the project from the understanding that once made it coherent.
 
+The difficult part is that this separation is almost invisible while it is happening. Projects rarely notice the moment continuity begins to weaken. They usually discover it much later, when familiar discussions return, established decisions need to be defended again, or work that once felt complete unexpectedly demands to be repeated. By then, the project has not simply forgotten information. It has begun to lose confidence in its own accumulated understanding.
+
 This is the nature of engineering drift.
 
 It is seldom the consequence of one catastrophic mistake. More often, it is the accumulation of ordinary decisions that no longer begin from established truth.
 
+Engineering drift is not usually the appearance of error.
+
+It is the gradual disappearance of continuity.
 ---
 
 ## Preserving Continuity
