@@ -283,6 +283,26 @@ That single question prevents an extraordinary amount of engineering drift.
 
 ---
 
+## Mode Transitions
+
+Changing operating modes is not a sign of uncertainty. It is the normal progression of disciplined engineering. Every project begins by understanding a problem, progresses toward a deliberate plan, moves into implementation, and concludes with verification. The quality of the engineering process depends not on avoiding these transitions, but on making them explicit.
+
+The greatest risk is not changing modes too often. The greatest risk is changing them silently.
+
+A discussion that begins by exploring possible explanations may naturally reach a point where enough evidence has been gathered to define a solution. At that moment, the project is no longer exploring. It is planning. Likewise, once a plan has been agreed upon and the next action has been deliberately frozen, implementation becomes appropriate. After implementation is complete, verification must determine whether reality matches the expectations established during planning.
+
+Each transition represents a conscious engineering decision rather than a gradual conversational drift.
+
+Explore becomes Plan when the problem has been understood well enough to define a controlled objective. The remaining uncertainties are known, the available evidence is sufficient to support a decision, and the team agrees that understanding is no longer the limiting factor.
+
+Plan becomes Implementation when the intended change has been clearly described, the scope of the work has been deliberately frozen, and the criteria for success have been established. At this point, implementation should execute the plan rather than continue designing it.
+
+Implementation becomes Verify when the planned work has been completed without introducing additional redesign. The objective is no longer to improve the solution but to determine whether it achieved the intended result.
+
+Verify returns to Explore whenever evidence contradicts expectations or reveals information that the original understanding cannot adequately explain. This is not a failure of the engineering process. It is evidence that the project has reached the point where new understanding is required before further decisions can be made.
+
+Declaring these transitions makes engineering decisions visible. Every participant understands the purpose of the current work, the authority of the discussion, and the conditions under which the project will move to the next stage. The conversation remains flexible, but its direction is no longer accidental.
+
 ## Engineering Rule
 
 Every AI-assisted engineering session begins by declaring its operating mode.
@@ -326,6 +346,22 @@ This is not a model failure.
 It is a process failure.
 
 ---
+
+## Recovery Pattern
+
+No engineering process is followed perfectly. Conversations drift, assumptions remain unchallenged, implementation begins before planning is complete, and verification sometimes turns into redesign before the original result has even been examined. These situations are common, particularly when projects move quickly or involve long discussions with AI.
+
+The objective is not to prevent every mistake. The objective is to recover from them without allowing confusion to become permanent.
+
+Recovery begins by stopping the current activity rather than attempting to continue through uncertainty. Continuing in the wrong operating mode rarely resolves the underlying problem. More often, it produces additional decisions whose authority becomes increasingly difficult to justify.
+
+The next step is to identify which operating mode should have been active. Was the team still exploring the problem? Had planning already been completed? Was implementation introducing changes that had never been approved? Or was verification being replaced by speculation before the evidence had been examined? Answering these questions restores context before new work begins.
+
+Once the correct operating mode has been identified, the conversation should be reviewed to determine where the transition occurred. Valuable observations should be preserved, but decisions made outside the authority of the active mode should be treated as proposals rather than accepted outcomes. Recovering discipline does not require discarding useful work. It requires restoring confidence in which conclusions can legitimately be trusted.
+
+Only after the boundaries have been re-established should the project continue. The discussion resumes within the correct operating mode, carrying forward verified knowledge while leaving unsupported conclusions behind.
+
+Engineering is not distinguished by the absence of mistakes. It is distinguished by the ability to recognize them, recover deliberately, and continue without losing the integrity of the decision-making process.
 
 ## Field Notes
 
