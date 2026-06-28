@@ -1,6 +1,4 @@
-# Chapter 2
-
-# The Three Operating Modes
+# Chapter 2: The Three Operating Modes
 
 ## Explore. Plan. Verify.
 
@@ -390,7 +388,7 @@ That distinction becomes the foundation for every remaining chapter in this manu
 
 > "A prince ought to have no other aim or thought, nor select anything else for his study, than war and its rules and discipline."
 
-> - Niccolò Machiavelli, *The Prince*
+> - Niccolo Machiavelli, *The Prince*
 
 The point is not war.
 
