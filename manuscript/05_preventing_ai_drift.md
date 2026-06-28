@@ -83,14 +83,17 @@ It gives evolution direction.
 
 Every validated decision creates a new responsibility.
 
+The work of engineering does not end when a conclusion has been verified. Validation gives a decision authority, but only continuity allows that authority to survive. Every verified conclusion becomes part of the project's accumulated understanding, and from that moment forward it deserves to be treated as something future work should inherit rather than repeatedly rediscover.
+
 Important decisions should remain visible long after the conversations that produced them have ended. Significant changes should leave evidence behind. New work should strengthen the project's continuity before it expands its capabilities. When uncertainty returns, the first objective is rarely to invent a better answer. It is to recover the last answer that was known to be correct and understand why it was accepted.
 
 These disciplines are easy to overlook because they rarely produce immediate results. Their value becomes visible only over time, when a project continues to grow without losing the reasoning that made its earlier progress possible.
 
+Mature engineering measures progress not only by the work it adds, but also by the understanding it preserves. The strongest projects are not those that change the least. They are the ones that continue changing without becoming detached from the knowledge that made their progress possible.
+
 Engineering maturity is not measured by how rarely decisions change.
 
 It is measured by how deliberately they do.
-
 ---
 
 ## Closing Reflection
