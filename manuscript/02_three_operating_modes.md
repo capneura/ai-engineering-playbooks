@@ -169,6 +169,12 @@ Exploration earns the right to plan.
 
 Nothing more.
 
+Exploration produces understanding rather than decisions. Its purpose is to reduce uncertainty until the problem is sufficiently understood to justify planning. During this phase, engineers gather observations, examine alternative explanations, identify missing information, and challenge their own assumptions. The quality of exploration is measured not by the number of ideas generated, but by the clarity with which the problem is eventually understood.
+
+This distinction is important because exploration often creates the illusion of progress. A convincing explanation is not the same as a validated one, and an attractive solution is not necessarily the correct solution. Ending exploration too early simply because an answer appears plausible transfers uncertainty into every subsequent stage of the project.
+
+Explore mode ends when the team understands the problem well enough to define the next controlled objective. It does not end when discussion becomes repetitive, when someone feels confident, or when the AI produces an answer that sounds complete. It ends when enough evidence has been collected to replace questions with an actionable plan.
+
 ---
 
 ## Mode 2 - Plan
@@ -204,6 +210,12 @@ Few belong inside the current task.
 
 Planning prevents today's objective from quietly becoming tomorrow's redesign.
 
+Planning transforms understanding into controlled execution. Once exploration has identified the problem and established sufficient confidence in the available evidence, planning defines exactly what will be changed, why it will be changed, and how success will be evaluated.
+
+Planning does not freeze the entire project. It freezes the next deliberate action. New ideas, improvements, and alternative approaches will inevitably emerge while planning is taking place. They should be recorded and evaluated later rather than absorbed into the current plan. Otherwise, planning gradually becomes another form of exploration, and the project loses the stability required for disciplined implementation.
+
+A well-developed plan removes uncertainty from implementation. Engineers should not be deciding architecture while modifying production systems, nor should they be redesigning objectives while writing code. By the time implementation begins, the significant decisions have already been made. The implementation phase should focus on executing those decisions accurately rather than negotiating them again.
+
 ---
 
 ## Mode 3 - Verify
@@ -234,6 +246,12 @@ Verification protects engineering from belief.
 Confidence may justify investigation.
 
 Only evidence justifies conclusion.
+
+Verification answers a single question: *Did reality match the expectations established during planning?* Every observation gathered during this phase should contribute to answering that question rather than creating a new explanation before the evidence has been examined.
+
+This discipline requires resisting a common temptation. When results differ from expectations, it is natural to begin proposing new theories immediately. Verification deliberately postpones that impulse. Its responsibility is first to establish what actually happened, using evidence rather than interpretation. Only after the verification process is complete should engineers return to exploration to understand why the outcome differed from the original expectations.
+
+Verification is therefore not the end of the engineering cycle but its quality control mechanism. Successful verification confirms that implementation achieved its intended objective. Unsuccessful verification does not represent failure; it represents new knowledge. When evidence contradicts expectations, the project does not continue by improvising a solution. It deliberately returns to Explore mode, carrying forward what has been learned while preserving the integrity of the engineering process.
 
 ---
 
