@@ -348,6 +348,10 @@ The goal is not documentation.
 
 The goal is preserving intent.
 
+Engineering intent is fragile because it often begins as conversation. A decision may feel obvious when it is made, but that clarity rarely survives time, fatigue, interruption, or a change of context. What was once understood becomes something that must later be reconstructed, and reconstruction is never neutral.
+
+A contract gives intent a durable form. It allows the project to continue without depending entirely on memory, mood, or the current state of the conversation. This matters especially in AI-assisted engineering, where a new session, a new model, or a slightly different instruction can reinterpret the work unless the original boundaries remain visible.
+
 If an engineer returns six months later and immediately understands why a change exists, the contract has succeeded.
 
 If they must reconstruct the reasoning from commit history and memory, the contract was incomplete.
