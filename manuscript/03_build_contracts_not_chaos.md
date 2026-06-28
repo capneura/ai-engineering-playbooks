@@ -157,6 +157,10 @@ With scope, engineering becomes selective.
 
 Selection is one of the highest forms of engineering discipline.
 
+Scope is often perceived as a mechanism for excluding work. In reality, its greater purpose is protecting attention. Every engineering effort competes with new ideas, alternative approaches, and unexpected opportunities that appear during implementation. Some of those ideas may ultimately prove valuable, but introducing them at the wrong moment divides focus and weakens progress.
+
+A well-defined scope recognizes that engineering is not the pursuit of every possible improvement. It is the disciplined completion of one objective before expanding to the next. Scope therefore protects momentum as much as it protects technical boundaries. By deciding what belongs in the current effort, the engineer also decides what deserves to wait.
+
 ---
 
 ## Constraints
@@ -194,6 +198,10 @@ They allow creativity to focus where it matters.
 The contract should therefore identify every significant constraint before implementation begins.
 
 When later decisions appear difficult, the constraints already provide much of the answer.
+
+Every undefined boundary becomes another decision waiting to be made during implementation. Individually, those decisions may appear insignificant. Collectively, they become opportunities for inconsistency. As choices accumulate, the original objective gradually competes with interpretations that were never consciously accepted.
+
+Constraints remove those unnecessary decisions before implementation begins. They establish the conditions that should remain constant so that engineering effort can be directed toward solving the intended problem rather than repeatedly redefining it. In this way, constraints do not reduce creativity. They concentrate it where it produces the greatest value.
 
 ---
 
