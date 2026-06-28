@@ -240,6 +240,10 @@ Engineering finishes when reality satisfies the contract.
 
 Not when the discussion feels complete.
 
+Success is not something engineering discovers after implementation. It is something engineering defines before implementation begins. Without that prior definition, evaluation gradually becomes subjective. Each unexpected outcome invites a new interpretation of what success was supposed to mean, making objective verification increasingly difficult.
+
+By defining success while every implementation path remains equally possible, the engineer separates intention from outcome. The implementation may succeed or fail, but the criteria remain stable. That stability allows evidence to evaluate the work instead of allowing the work to redefine the evidence.
+
 ---
 
 ## Frozen Scope
@@ -265,6 +269,10 @@ It is respect for continuity.
 Projects that constantly redefine themselves rarely finish anything well.
 
 Projects that finish one disciplined step at a time accumulate remarkable progress.
+
+Freezing a contract is not an expression of rigidity. It is an agreement to preserve stability long enough for meaningful observation. Engineering depends on understanding the consequences of individual decisions, and that becomes increasingly difficult when multiple changes occur simultaneously.
+
+Sequencing improvements allows each modification to be evaluated within a stable context before the next is introduced. Better ideas are therefore not rejected but organized. The objective is not to prevent evolution, but to ensure that every improvement can be understood, verified, and, if necessary, reversed without uncertainty about what actually produced the result.
 
 ## Engineering Rule
 
