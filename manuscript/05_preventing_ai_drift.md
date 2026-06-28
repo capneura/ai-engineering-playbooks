@@ -4,7 +4,7 @@
 
 > "Those who cannot remember the past are condemned to repeat it."
 >
-> — George Santayana
+> - George Santayana
 
 ## A New Responsibility
 
@@ -14,14 +14,19 @@ The architecture is coherent. The implementation behaves as intended. Evidence s
 
 In many respects, it has.
 
+The first responsibility of engineering is to discover what is true. Every chapter leading to this point has served that objective from a different angle. Problems were examined, assumptions challenged, decisions preserved, and conclusions tested until opinion gradually gave way to evidence. Step by step, uncertainty became understanding.
+
 Yet this is also the point at which engineering quietly changes its nature.
 
 The previous chapters were concerned with discovery. They established a disciplined way of thinking, preserved engineering intent, and showed why evidence must become the authority for technical decisions. By doing so, they transformed uncertainty into understanding.
 
 Once that understanding exists, however, a different responsibility emerges.
 
-Engineering is no longer trying to discover the truth. It is trying to ensure that the truth it has already established continues to guide everything that follows.
+The challenge is no longer one of discovery. It becomes one of stewardship. The project is no longer searching for the truth it has yet to find. It has become responsible for the truth it has already earned.
 
+From this point onward, every new decision carries an additional obligation. It must not only solve the problem in front of it, but also preserve the understanding that made the project coherent in the first place.
+
+Engineering is no longer trying to discover the truth. It is trying to ensure that the truth it has already established continues to guide everything that follows.
 ---
 
 ## When Truth Begins to Fade
